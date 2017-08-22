@@ -1,0 +1,36 @@
+html{
+    font-size: 20px;
+    font-family: placeholder: this should be the rest of the output you got from Google fonts;
+    background-color: #00539F;
+}
+
+p{
+    color: red;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#idTag{
+    color: #cccccc;
+}
+
+.aTag{
+    color: yellow;
+}
+
+/*.aTag:hover{*/
+    /*background-color: aqua;*/
+/*}*/
+
+.aTag:left{
+    background-color: bisque;
+}
